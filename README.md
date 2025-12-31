@@ -1,6 +1,6 @@
 ### Custom split metodu yazdıq
 
-##### PCAP hazırlıq modullarından maraqlı bir taks
+##### PCAP hazırlıq modullarından maraqlı bir task
 <hr>
 Burda stringlərin split() metodunu custom yazmaq tələb edilirdi. Lakin, Split metodu kimi parametr qəbul etmə falan hissələrinə gir deyilmir.
 Kodu böyütmək, daha yaxşı hala gətirmək olar təbii ki.
